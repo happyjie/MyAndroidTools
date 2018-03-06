@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">commonlib</string>
+
+
+    <string name="PermissionCamera">摄像头权限</string>
+    <string name="PermissionCALENDAR">日历相关权限</string>
+    <string name="PermissionCONTACTS">通讯录权限</string>
+    <string name="PermissionLOCATION">位置获取权限</string>
+    <string name="PermissionAUDIO">语音录制权限</string>
+    <string name="PermissionPHONE">通话相关权限</string>
+    <string name="PermissionSENSORS">运动传感器权限</string>
+    <string name="PermissionSMS">短信获取权限</string>
+    <string name="PermissionSTORAGE">内存卡读写权限</string>
+</resources>

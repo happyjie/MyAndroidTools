@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--页面背景-->
+    <color name="bg_page">#f5f5f5</color>
+
+    <!-- 分割线颜色-->
+    <color name="divide_line">#eeeeee</color>
+
+    <!--白色-->
+    <color name="white">#ffffff</color>
+</resources>
